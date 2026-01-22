@@ -1,0 +1,9 @@
+body{
+  margin:0;
+  padding:0;
+  height: 100vh;
+  background-image: url(images/curruncy-image.jpg);
+  background-size: cover;
+  background-position: center;
+  background-image: no-repeat;
+}
